@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://n1colast0rres.github.io/Portafolio/">DevNico</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/zQeeUSh.png">
+<img src="https://imgur.com/lI6bseG.png">
 
 [![Instagram followers](https://www.instagram.com/nico_tmrx_?igsh=MWs2eGtkNHZreHQ4ag%3D%3D&utm_source=qr)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
