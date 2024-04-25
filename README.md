@@ -4,8 +4,6 @@
 <img src="https://imgur.com/VItCRMK.png">
 
 [![Instagram followers]()(https://www.instagram.com/nico_tmrx_?igsh=MWs2eGtkNHZreHQ4ag%3D%3D&utm_source=qr)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/N1colasT0rres)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
 
