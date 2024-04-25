@@ -4,7 +4,7 @@
 <img src="https://imgur.com/VItCRMK.png">
 
 [![Instagram followers](https://img.shields.io/github/followers/n1colast0rres?style=social)](https://github.com/N1colasT0rres)
-![Portafolio](https://img.shields.io/badge/Col%20-yellow-omb%20-blue)
+![Portafolio](https://img.shields.io/badge/Col%20-yellow_omb%20-blue)
 
 
 ## Sobre mi
