@@ -3,7 +3,7 @@
 </div>
 <img src="https://imgur.com/VItCRMK.png">
 
-[![Instagram followers](https://img.shields.io/github/followers/:https://github.com/N1colasT0rres)
+[![Instagram followers](https://img.shields.io/github/followers/:N1colasT0rres)
 
 ## Sobre mi
 
